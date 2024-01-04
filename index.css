@@ -1,0 +1,27 @@
+@import url('https://fonts.google.com/specimen/Rubik+Doodle+Shadow');
+
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/001/886/051/original/color-books-seamless-pattern-background-vector.jpg");
+    background-size: cover;
+    text-align: center;
+}
+
+body div {
+    width: 75%;
+    background-color: rgba(125, 175, 150, 0.911);
+    margin: 20px auto;
+    border-radius: 10px;
+    border: solid rgb(34, 131, 82) 2px;
+    padding: 5px 25px;
+    font-family: 'Rubik Doodle Shadow', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+button {
+    padding: 15px 25px;
+    border-radius: 10px;
+    margin-top: 5px;
+    border: none;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(34, 131, 82);
+    font-weight: 700;
+}
